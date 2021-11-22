@@ -7,7 +7,38 @@
 .fs-7 {
   font-size: 0.8rem;
 }
+
+/* login */
+.form-control{
+  border: #f0f2f5;
+  border-bottom: 1px solid #d5d5d5 ;
+  border-radius: 0 !important;
+}
+
+.btn-sm{
+  width: 150PX;
+  height: 50PX;
+  padding: 20PX;
+}
+
+
 /* nav button */
+
+.qustion-btn{
+  
+  height: 35PX;
+  padding: 7PX;
+  margin: 5px;
+  background-color:#a82723;
+  color: #fff;
+  border: #fff;
+  border-radius: 10px;
+}
+
+.qustion-btn:hover {
+ color: #a82723 !important;
+ border: #a82723 !important;
+}
 .nav__btn button:hover {
   background: #f0f2f5 !important;
 }
